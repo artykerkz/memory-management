@@ -1,0 +1,3 @@
+C:/Users/ArtyKerkz/Downloads/memoryManagement_STUDENT_clion/memoryManagement_STUDENT_clion/cmake-build-debug/CMakeFiles/memoryManagement.dir
+C:/Users/ArtyKerkz/Downloads/memoryManagement_STUDENT_clion/memoryManagement_STUDENT_clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ArtyKerkz/Downloads/memoryManagement_STUDENT_clion/memoryManagement_STUDENT_clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
